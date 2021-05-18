@@ -7,7 +7,7 @@ public class MessageRunner implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("Welcome to git");
+		int a=10;
         System.out.println("Hello Git code");
 	}
 
